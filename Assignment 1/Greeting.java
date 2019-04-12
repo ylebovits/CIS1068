@@ -6,7 +6,7 @@
  * Class: CIS 1068
  * Due: 25 January, 2019
  *
- * This program prints out a short message, mentioning my lab instrctor
+ * This program prints out a short message, mentioning my lab instructor
  *
  */
 
@@ -17,3 +17,4 @@ public class Greeting {
 	    System.out.println("and is taught by Chao Han");
     }
 }
+
